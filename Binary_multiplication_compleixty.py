@@ -3,6 +3,10 @@ import time
 import matplotlib.pyplot as plt
 import sys
 
+PID = 3977670
+print('My PID: ' + str(PID))
+print('The reminder of division of my PID by 4: ' + str(PID%4))
+print('The implementation is multiplication')
 
 Size_t = []
 Size_s = []
